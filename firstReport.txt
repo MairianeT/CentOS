@@ -1,0 +1,1034 @@
+MiB Mem : 1827.1 total, 1155.1 free, 449.4 used, 222.6 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 1226.4 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  502328 282856   3024 R  88.2  15.1   0:19.60 mem.bash
+Leader process
+   1480 root      20   0  507872 288664   3024 R  88.2  15.4   0:20.02 mem.bash
+   1499 root      20   0  274140   4504   3932 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 1133.1 free, 471.2 used, 222.7 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 1204.5 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  524768 305296   3024 R  82.4  16.3   0:21.19 mem.bash
+Leader process
+   1480 root      20   0  530972 311632   3024 R  77.8  16.7   0:21.61 mem.bash
+   1520 root      20   0  274140   4392   3820 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 1111.3 free, 493.0 used, 222.7 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 1182.7 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  547472 328264   3024 R  99.9  17.5   0:22.79 mem.bash
+Leader process
+   1480 root      20   0  553016 333544   3024 R  83.3  17.8   0:23.19 mem.bash
+   1541 root      20   0  274140   4512   3940 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 1089.6 free, 514.8 used, 222.7 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 1161.0 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  569516 350176   3024 R  93.3  18.7   0:24.34 mem.bash
+Leader process
+   1480 root      20   0  575456 355984   3024 R  83.3  19.0   0:24.75 mem.bash
+   1562 root      20   0  274140   4484   3912 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 1067.8 free, 536.6 used, 222.7 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 1139.2 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  591560 372088   3024 R  82.4  19.9   0:25.90 mem.bash
+Leader process
+   1480 root      20   0  597368 377896   3024 R  87.5  20.2   0:26.32 mem.bash
+   1583 root      20   0  274140   4396   3820 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 1046.5 free, 557.8 used, 222.7 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 1117.9 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  613604 394264   3024 R  88.2  21.1   0:27.48 mem.bash
+Leader process
+   1480 root      20   0  619544 400072   3024 R  83.3  21.4   0:27.89 mem.bash
+   1604 root      20   0  274140   4456   3884 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 1024.9 free, 579.4 used, 222.7 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 1096.3 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  635780 416440   3024 R  88.2  22.3   0:29.06 mem.bash
+Leader process
+   1480 root      20   0  641324 421984   3024 R  88.9  22.6   0:29.47 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 1004.1 free, 600.2 used, 222.7 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 1075.5 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  656900 437560   3024 R  88.9  23.4   0:30.63 mem.bash
+Leader process
+   1480 root      20   0  662576 443368   3024 R  82.4  23.7   0:31.03 mem.bash
+   1646 root      20   0  274140   4500   3928 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 981.4 free, 622.9 used, 222.7 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 1052.8 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  680000 460528   3024 R  82.4  24.6   0:32.22 mem.bash
+Leader process
+   1480 root      20   0  685808 466600   3024 R  77.8  24.9   0:32.62 mem.bash
+   1667 root      20   0  274140   4348   3776 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 959.7 free, 644.6 used, 222.7 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 1031.1 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  702308 482968   3024 R  88.9  25.8   0:33.80 mem.bash
+Leader process
+   1480 root      20   0  708116 488776   3024 R  83.3  26.1   0:34.21 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 938.2 free, 666.1 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 1009.6 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  724352 504880   3024 R  88.2  27.0   0:35.37 mem.bash
+Leader process
+   1480 root      20   0  730556 511216   3024 R  99.9  27.3   0:35.79 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 916.0 free, 688.3 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 987.4 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  747056 527584   3024 R  83.3  28.2   0:36.95 mem.bash
+Leader process
+   1480 root      20   0  752336 533128   3024 R  88.2  28.5   0:37.35 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 893.9 free, 710.4 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 965.3 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  769364 550024   3024 R  88.2  29.4   0:38.52 mem.bash
+Leader process
+   1480 root      20   0  775304 555832   3024 R  82.4  29.7   0:38.92 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 872.3 free, 732.0 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 943.7 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  791672 572200   3024 R  83.3  30.6   0:40.09 mem.bash
+Leader process
+   1480 root      20   0  797480 578272   3024 R  93.8  30.9   0:40.51 mem.bash
+   1772 root      20   0  274140   4520   3948 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 850.3 free, 754.0 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 921.7 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  814112 594904   3024 R  88.2  31.8   0:41.70 mem.bash
+Leader process
+   1480 root      20   0  819656 600184   3024 R  83.3  32.1   0:42.10 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 828.6 free, 775.7 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 900.0 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  836156 616816   3024 R  87.5  33.0   0:43.27 mem.bash
+Leader process
+   1480 root      20   0  841964 622624   3024 R  77.8  33.3   0:43.67 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 806.3 free, 798.0 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 877.8 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  858860 639520   3024 R  84.2  34.2   0:44.84 mem.bash
+Leader process
+   1480 root      20   0  864800 645592   3024 R  75.0  34.5   0:45.26 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 784.6 free, 819.6 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 856.1 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  881300 661960   3024 R  73.7  35.4   0:46.44 mem.bash
+Leader process
+   1480 root      20   0  887240 667768   3024 R  75.0  35.7   0:46.85 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 762.6 free, 841.7 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 834.0 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  904136 684928   3024 R  73.7  36.6   0:48.02 mem.bash
+Leader process
+   1480 root      20   0  909944 690472   3024 R  88.2  36.9   0:48.45 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 740.5 free, 863.8 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 811.9 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  926444 707104   3024 R  82.4  37.8   0:49.61 mem.bash
+Leader process
+   1480 root      20   0  932252 712912   3024 R  78.9  38.1   0:50.01 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 718.2 free, 886.1 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 789.6 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  949016 729544   3024 R  88.2  39.0   0:51.18 mem.bash
+Leader process
+   1480 root      20   0  955088 735616   3024 R  76.5  39.3   0:51.60 mem.bash
+     23 root      39  19       0      0      0 R   5.9   0.0   0:00.05 khugepaged
+   1919 root      20   0  274140   4540   3964 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+
+MiB Mem : 1827.1 total, 695.5 free, 908.8 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 767.0 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  971852 752512   3024 R  88.2  40.2   0:52.78 mem.bash
+Leader process
+   1480 root      20   0  977792 758584   3024 R  94.1  40.5   0:53.22 mem.bash
+   1940 root      20   0  274140   4484   3912 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 673.4 free, 930.9 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 744.8 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0  994820 775480   3024 R  77.8  41.4   0:54.38 mem.bash
+Leader process
+   1480 root      20   0 1000628 781288   3024 R  77.8  41.8   0:54.78 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 651.4 free, 952.8 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 722.9 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1017260 797920   3024 R  77.8  42.6   0:55.94 mem.bash
+Leader process
+   1480 root      20   0 1023068 803728   3024 R  77.8  43.0   0:56.35 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 629.4 free, 974.8 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 700.9 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1039568 820096   3024 R  88.2  43.8   0:57.51 mem.bash
+Leader process
+   1480 root      20   0 1045640 826432   3024 R  82.4  44.2   0:57.91 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 607.6 free, 996.7 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 679.0 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1062536 843328   3024 R  88.2  45.1   0:59.08 mem.bash
+Leader process
+   1480 root      20   0 1068212 848872   3024 R  93.8  45.4   0:59.51 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 584.9 free, 1019.3 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 656.4 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1084844 865504   3024 R  88.2  46.3   1:00.68 mem.bash
+Leader process
+   1480 root      20   0 1090916 871576   3024 R  88.9  46.6   1:01.10 mem.bash
+   2045 root      20   0  274140   4424   3852 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 562.9 free, 1041.3 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 634.4 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1107548 888208   3024 R  78.9  47.5   1:02.26 mem.bash
+Leader process
+   1480 root      20   0 1113884 894544   3024 R  88.2  47.8   1:02.70 mem.bash
+     23 root      39  19       0      0      0 R   5.9   0.0   0:00.08 khugepaged
+   2066 root      20   0  274140   4508   3936 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+
+MiB Mem : 1827.1 total, 540.1 free, 1064.2 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 611.6 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1130384 911176   3024 R  82.4  48.7   1:03.86 mem.bash
+Leader process
+   1480 root      20   0 1136192 916720   3024 R  87.5  49.0   1:04.29 mem.bash
+   2087 root      20   0  274140   4456   3884 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 518.2 free, 1086.0 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 589.7 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1153220 933880   3024 R  83.3  49.9   1:05.47 mem.bash
+Leader process
+   1480 root      20   0 1159292 939952   3024 R  84.2  50.2   1:05.89 mem.bash
+   2108 root      20   0  274140   4508   3932 R   5.3   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 496.6 free, 1107.6 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 568.1 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1175528 956056   3024 R  99.9  51.1   1:07.05 mem.bash
+Leader process
+   1480 root      20   0 1181204 961864   3024 R  83.3  51.4   1:07.46 mem.bash
+   2130 root      20   0  274140   4500   3928 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 474.9 free, 1129.3 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 546.4 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1197704 978232   3024 R  88.2  52.3   1:08.63 mem.bash
+Leader process
+   1480 root      20   0 1203380 984040   3024 R  88.9  52.6   1:09.04 mem.bash
+   2151 root      20   0  274140   4524   3952 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 453.2 free, 1151.1 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 524.7 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1220144 977.5m   3024 R  88.2  53.5   1:10.20 mem.bash
+Leader process
+   1480 root      20   0 1225820 982.9m   3024 R  88.2  53.8   1:10.60 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 430.9 free, 1173.3 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 502.4 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1242452 999.1m   3024 R  82.4  54.7   1:11.77 mem.bash
+Leader process
+   1480 root      20   0 1248656   1.0g   3024 R  88.2  55.0   1:12.20 mem.bash
+   2193 root      20   0  274140   4440   3868 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 409.3 free, 1194.9 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 480.8 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1264892   1.0g   3024 R  82.4  55.9   1:13.36 mem.bash
+Leader process
+   1480 root      20   0 1270172   1.0g   3024 R  87.5  56.2   1:13.76 mem.bash
+   2214 root      20   0  274140   4532   3960 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 387.4 free, 1216.8 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 458.9 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1286936   1.0g   3024 R  88.9  57.1   1:14.93 mem.bash
+Leader process
+   1480 root      20   0 1293008   1.0g   3024 R  88.2  57.4   1:15.35 mem.bash
+   2235 root      20   0  274140   4452   3880 R   5.9   0.2   0:00.02 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 365.0 free, 1239.2 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 436.5 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1309640   1.0g   3024 R  83.3  58.3   1:16.52 mem.bash
+Leader process
+   1480 root      20   0 1315976   1.0g   3024 R  99.9  58.6   1:16.95 mem.bash
+   2256 root      20   0  274140   4552   3976 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 342.9 free, 1261.3 used, 222.8 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 414.4 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1332476   1.1g   3024 R  82.4  59.5   1:18.10 mem.bash
+Leader process
+   1480 root      20   0 1338284   1.1g   3024 R  93.8  59.8   1:18.53 mem.bash
+   2277 root      20   0  274140   4348   3776 R   6.2   0.2   0:00.02 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 321.3 free, 1282.9 used, 222.9 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 392.8 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1354652   1.1g   3024 R  82.4  60.7   1:19.70 mem.bash
+Leader process
+   1480 root      20   0 1360460   1.1g   3024 R  94.1  61.0   1:20.12 mem.bash
+   2298 root      20   0  274140   4468   3896 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 300.3 free, 1303.9 used, 222.9 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 371.9 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1376036   1.1g   3024 R  78.9  61.8   1:21.28 mem.bash
+Leader process
+   1480 root      20   0 1381844   1.1g   3024 R  88.9  62.1   1:21.70 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 278.5 free, 1325.7 used, 222.9 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 350.1 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1398212   1.1g   3024 R  88.2  63.0   1:22.86 mem.bash
+Leader process
+   1480 root      20   0 1404020   1.1g   3024 R  84.2  63.3   1:23.29 mem.bash
+   2340 root      20   0  274140   4476   3904 R   5.3   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 257.2 free, 1347.0 used, 222.9 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 328.7 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1420124   1.1g   3024 R  88.2  64.2   1:24.46 mem.bash
+Leader process
+   1480 root      20   0 1425800   1.2g   3024 R  83.3  64.5   1:24.86 mem.bash
+   2361 root      20   0  274140   4436   3860 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 235.4 free, 1368.8 used, 222.9 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 306.9 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1442300   1.2g   3024 R  82.4  65.4   1:26.02 mem.bash
+Leader process
+   1480 root      20   0 1447976   1.2g   3024 R  88.2  65.7   1:26.42 mem.bash
+   2382 root      20   0  274140   4424   3852 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 213.3 free, 1390.9 used, 222.9 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 284.8 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1464608   1.2g   3024 R  83.3  66.6   1:27.59 mem.bash
+Leader process
+   1480 root      20   0 1470944   1.2g   3024 R  88.2  66.9   1:28.02 mem.bash
+   2403 root      20   0  274140   4420   3848 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 191.1 free, 1413.1 used, 222.9 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 262.6 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1487312   1.2g   3024 R  88.2  67.8   1:29.18 mem.bash
+Leader process
+   1480 root      20   0 1493648   1.2g   3024 R  78.9  68.1   1:29.64 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 168.5 free, 1435.7 used, 222.9 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 240.0 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1510544   1.2g   3024 R  88.2  69.0   1:30.82 mem.bash
+Leader process
+   1480 root      20   0 1516484   1.2g   3024 R  82.4  69.3   1:31.23 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 146.6 free, 1457.6 used, 222.9 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 218.1 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1533248   1.3g   3024 R  88.2  70.2   1:32.40 mem.bash
+Leader process
+   1480 root      20   0 1539056   1.3g   3024 R  83.3  70.5   1:32.83 mem.bash
+    198 root      20   0       0      0      0 I   5.6   0.0   0:00.71 kworker/0:3-events
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 124.7 free, 1479.5 used, 222.9 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 196.2 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1555556   1.3g   3024 R  88.2  71.4   1:34.01 mem.bash
+Leader process
+   1480 root      20   0 1561364   1.3g   3024 R  87.5  71.7   1:34.42 mem.bash
+   2487 root      20   0  274140   4484   3912 R   6.2   0.2   0:00.02 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 102.6 free, 1501.6 used, 222.9 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 174.1 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1578128   1.3g   3024 R  76.5  72.6   1:35.58 mem.bash
+Leader process
+   1480 root      20   0 1583804   1.3g   3024 R  78.9  72.9   1:36.00 mem.bash
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 80.4 free, 1523.8 used, 222.9 buff/cache MiB Swap: 820.0 total, 820.0 free, 0.0 used. 151.9 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1600832   1.3g   3024 R  88.9  73.8   1:37.17 mem.bash
+Leader process
+   1480 root      20   0 1606244   1.3g   3024 R  82.4  74.1   1:37.56 mem.bash
+   2529 root      20   0  274140   4468   3896 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 66.9 free, 1547.9 used, 212.3 buff/cache MiB Swap: 820.0 total, 819.7 free, 0.3 used. 127.8 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1623008   1.3g   2996 R  70.0  75.0   1:38.73 mem.bash
+Leader process
+   1480 root      20   0 1631324   1.3g   2996 R  83.3  75.5   1:39.28 mem.bash
+   2550 root      20   0  274140   4472   3900 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179200  13560   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 74.5 free, 1568.8 used, 183.7 buff/cache MiB Swap: 820.0 total, 818.2 free, 1.8 used. 109.0 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1649012   1.4g   2996 R  94.1  76.4   1:40.50 mem.bash
+Leader process
+   1480 root      20   0 1654820   1.4g   2996 R  87.5  76.7   1:40.91 mem.bash
+   2571 root      20   0  274140   4416   3844 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179200  13524   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 72.4 free, 1589.8 used, 164.8 buff/cache MiB Swap: 820.0 total, 816.0 free, 4.0 used. 89.9 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1670924   1.4g   2996 R  77.8  77.6   1:42.06 mem.bash
+Leader process
+   1480 root      20   0 1676996   1.4g   2996 R  73.7  77.9   1:42.49 mem.bash
+   2592 root      20   0  274140   4472   3900 R   5.3   0.2   0:00.01 top
+      1 root      20   0  179200  13504   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 79.1 free, 1611.7 used, 136.3 buff/cache MiB Swap: 820.0 total, 812.5 free, 7.5 used. 72.0 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1694552   1.4g   2996 R  83.3  78.9   1:43.67 mem.bash
+Leader process
+   1480 root      20   0 1700492   1.4g   2996 R  88.2  79.2   1:44.07 mem.bash
+      9 root      20   0       0      0      0 S   5.9   0.0   0:00.13 ksoftirqd/0
+   2613 root      20   0  274140   4512   3940 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200  13476   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+
+MiB Mem : 1827.1 total, 69.6 free, 1633.2 used, 124.2 buff/cache MiB Swap: 820.0 total, 811.0 free, 9.0 used. 56.8 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1717520   1.4g   2996 R  77.8  80.0   1:45.23 mem.bash
+Leader process
+   1480 root      20   0 1723460   1.4g   2996 R  83.3  80.3   1:45.66 mem.bash
+   2634 root      20   0  274140   4440   3864 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179200  13468   8580 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 68.3 free, 1653.4 used, 105.4 buff/cache MiB Swap: 820.0 total, 807.7 free, 12.3 used. 47.0 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1740224   1.4g   2996 R  82.4  81.2   1:46.77 mem.bash
+Leader process
+   1480 root      20   0 1746032   1.5g   2996 R  88.2  81.5   1:47.17 mem.bash
+      1 root      20   0  179200  13424   8556 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 66.4 free, 1674.4 used, 86.3 buff/cache MiB Swap: 820.0 total, 804.0 free, 16.0 used. 35.8 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1763984   1.5g   2996 R  93.8  82.3   1:48.39 mem.bash
+Leader process
+   1480 root      20   0 1769660   1.5g   2996 R  88.2  82.6   1:48.81 mem.bash
+   2676 root      20   0  274140   4528   3960 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200  13004   8152 S   0.0   0.7   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 72.7 free, 1694.9 used, 59.4 buff/cache MiB Swap: 820.0 total, 794.0 free, 26.0 used. 29.2 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1792364   1.5g   2848 R  62.5  83.5   1:50.38 mem.bash
+Leader process
+   1480 root      20   0 1800416   1.5g   2788 R  82.4  83.7   1:50.95 mem.bash
+     49 root      20   0       0      0      0 D  11.8   0.0   0:00.31 kswapd0
+   2697 root      20   0  274140   4468   3896 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200   8196   3604 S   0.0   0.4   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+
+MiB Mem : 1827.1 total, 68.2 free, 1710.8 used, 48.0 buff/cache MiB Swap: 820.0 total, 781.0 free, 39.0 used. 19.1 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1818632   1.5g   2788 R  88.2  84.6   1:52.19 mem.bash
+Leader process
+   1480 root      20   0 1829192   1.5g   2756 R  83.3  84.8   1:52.95 mem.bash
+   2718 root      20   0  274140   4528   3956 R   5.6   0.2   0:00.02 top
+      1 root      20   0  179200   7708   3148 S   0.0   0.4   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 74.1 free, 1713.3 used, 39.6 buff/cache MiB Swap: 820.0 total, 751.0 free, 69.0 used. 20.7 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1854140   1.5g   2616 R  63.6  84.9   1:54.69 mem.bash
+Leader process
+   1480 root      20   0 1862192   1.5g   2616 R  82.4  85.1   1:55.27 mem.bash
+   2739 root      20   0  274140   4484   3912 R   5.9   0.2   0:00.02 top
+      1 root      20   0  179200   6172   2292 S   0.0   0.3   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 63.2 free, 1720.7 used, 43.1 buff/cache MiB Swap: 820.0 total, 732.7 free, 87.3 used. 11.6 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1880540   1.5g   2608 R  78.9  85.2   1:56.57 mem.bash
+Leader process
+   1480 root      20   0 1887008   1.5g   2600 R  57.9  85.1   1:57.01 mem.bash
+     49 root      20   0       0      0      0 R  21.1   0.0   0:00.59 kswapd0
+    198 root      20   0       0      0      0 I   5.3   0.0   0:00.76 kworker/0:3-events
+      1 root      20   0  179200   4944   2216 S   0.0   0.3   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+
+MiB Mem : 1827.1 total, 65.9 free, 1720.7 used, 40.4 buff/cache MiB Swap: 820.0 total, 709.2 free, 110.8 used. 12.9 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1905224   1.5g   2596 R  88.9  85.5   1:58.25 mem.bash
+Leader process
+   1480 root      20   0 1911956   1.5g   2596 R  82.4  85.8   1:58.70 mem.bash
+      1 root      20   0  179200   4548   2216 S   0.0   0.2   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 68.7 free, 1716.2 used, 42.1 buff/cache MiB Swap: 820.0 total, 680.0 free, 140.0 used. 16.6 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1928588   1.5g   2592 R  68.8  85.5   1:59.87 mem.bash
+Leader process
+   1480 root      20   0 1935980   1.5g   2592 R  82.4  85.9   2:00.39 mem.bash
+   2802 root      20   0  274140   4364   3792 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200   2328   2216 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 62.2 free, 1723.0 used, 41.8 buff/cache MiB Swap: 820.0 total, 665.0 free, 155.0 used. 9.9 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1952612   1.5g   2592 R  83.3  86.0   2:01.54 mem.bash
+Leader process
+   1480 root      20   0 1958156   1.5g   2588 R  50.0  85.5   2:01.92 mem.bash
+     49 root      20   0       0      0      0 S  13.6   0.0   0:00.85 kswapd0
+      9 root      20   0       0      0      0 S   4.5   0.0   0:00.15 ksoftirqd/0
+   2823 root      20   0  274140   4400   3824 R   4.5   0.2   0:00.02 top
+      1 root      20   0  179200   2328   2216 S   0.0   0.1   0:03.74 systemd
+
+
+MiB Mem : 1827.1 total, 72.5 free, 1712.1 used, 42.4 buff/cache MiB Swap: 820.0 total, 630.7 free, 189.3 used. 20.5 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 1974920   1.5g   2588 R  47.1  85.6   2:03.05 mem.bash
+Leader process
+   1480 root      20   0 1983104   1.5g   2588 R  83.3  86.0   2:03.60 mem.bash
+   2844 root      20   0  274140   4244   3672 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179200   2328   2216 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 69.2 free, 1715.9 used, 42.0 buff/cache MiB Swap: 820.0 total, 611.5 free, 208.5 used. 17.0 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2000264   1.5g   2588 R  93.8  86.0   2:04.82 mem.bash
+Leader process
+   1480 root      20   0 2005940   1.5g   2588 R  77.8  86.3   2:05.24 mem.bash
+   2865 root      20   0  274140   4372   3800 R   5.6   0.2   0:00.02 top
+      1 root      20   0  179200   2328   2216 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 64.8 free, 1721.8 used, 40.4 buff/cache MiB Swap: 820.0 total, 598.5 free, 221.5 used. 11.8 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2021384   1.5g   2588 R  88.9  86.4   2:06.36 mem.bash
+Leader process
+   1480 root      20   0 2026928   1.5g   2588 R  82.4  86.7   2:06.75 mem.bash
+   2886 root      20   0  274140   4360   3788 R   5.9   0.2   0:00.02 top
+      1 root      20   0  179200   2328   2216 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 70.2 free, 1718.4 used, 38.4 buff/cache MiB Swap: 820.0 total, 575.7 free, 244.2 used. 16.2 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2042768   1.5g   2588 R  73.7  86.4   2:07.83 mem.bash
+Leader process
+   1480 root      20   0 2049104   1.5g   2588 R  83.3  86.8   2:08.26 mem.bash
+   2907 root      20   0  274140   4384   3812 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179200   2328   2216 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 73.4 free, 1715.0 used, 38.6 buff/cache MiB Swap: 820.0 total, 550.9 free, 269.1 used. 19.6 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2064284   1.5g   2588 R  82.4  86.6   2:09.34 mem.bash
+Leader process
+   1480 root      20   0 2069960   1.5g   2588 R  87.5  86.6   2:09.75 mem.bash
+   2928 root      20   0  274140   4440   3868 R  12.5   0.2   0:00.02 top
+     49 root      20   0       0      0      0 S   6.2   0.0   0:01.18 kswapd0
+      1 root      20   0  179200   2328   2216 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+
+MiB Mem : 1827.1 total, 68.4 free, 1715.5 used, 43.1 buff/cache MiB Swap: 820.0 total, 522.3 free, 297.7 used. 16.8 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2086460   1.5g   2588 R  93.8  86.8   2:10.88 mem.bash
+Leader process
+   1480 root      20   0 2100188   1.5g   2588 R  82.4  86.8   2:11.82 mem.bash
+     10 root      20   0       0      0      0 R   5.9   0.0   0:00.30 rcu_sched
+   2949 root      20   0  274140   4396   3824 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200   2328   2216 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+
+MiB Mem : 1827.1 total, 72.1 free, 1712.4 used, 42.6 buff/cache MiB Swap: 820.0 total, 493.2 free, 326.8 used. 20.2 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2117348   1.5g   2588 R  75.0  86.7   2:12.99 mem.bash
+Leader process
+   1480 root      20   0 2124344   1.5g   2588 R  87.5  86.6   2:13.49 mem.bash
+   2970 root      20   0  274140   4296   3724 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179200   2328   2216 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 67.5 free, 1717.9 used, 41.6 buff/cache MiB Swap: 820.0 total, 479.7 free, 340.2 used. 15.2 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2139788   1.5g   2588 R  82.4  86.8   2:14.59 mem.bash
+Leader process
+   1480 root      20   0 2145992   1.6g   2588 R  83.3  87.1   2:15.00 mem.bash
+   2991 root      20   0  274140   4408   3836 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179200   2328   2216 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 69.9 free, 1717.4 used, 39.7 buff/cache MiB Swap: 820.0 total, 458.2 free, 361.8 used. 16.5 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2161832   1.6g   2588 R  88.2  87.2   2:16.09 mem.bash
+Leader process
+   1480 root      20   0 2167904   1.5g   2588 R  93.3  86.8   2:16.51 mem.bash
+   3012 root      20   0  274140   4412   3840 R   6.7   0.2   0:00.01 top
+      1 root      20   0  179200   2328   2216 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 69.1 free, 1717.9 used, 40.1 buff/cache MiB Swap: 820.0 total, 436.0 free, 384.0 used. 15.9 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2184800   1.6g   2588 R  88.2  87.0   2:17.66 mem.bash
+Leader process
+   1480 root      20   0 2190476   1.6g   2588 R  83.3  87.3   2:18.07 mem.bash
+   3033 root      20   0  274140   4304   3732 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179200   2328   2216 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 65.2 free, 1721.6 used, 40.2 buff/cache MiB Swap: 820.0 total, 417.7 free, 402.2 used. 12.2 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2207240   1.6g   2588 R  94.1  87.4   2:19.22 mem.bash
+Leader process
+   1480 root      20   0 2213180   1.6g   2588 R  93.8  86.9   2:19.63 mem.bash
+      1 root      20   0  179200   2328   2216 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 68.3 free, 1716.0 used, 42.8 buff/cache MiB Swap: 820.0 total, 389.7 free, 430.2 used. 16.5 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2230472   1.6g   2588 R  83.3  87.0   2:20.79 mem.bash
+Leader process
+   1480 root      20   0 2236808   1.6g   2588 R  88.2  87.3   2:21.22 mem.bash
+   3075 root      20   0  274140   4356   3784 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200   2328   2216 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 65.2 free, 1720.8 used, 41.1 buff/cache MiB Swap: 820.0 total, 371.0 free, 449.0 used. 12.6 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2253704   1.6g   2588 R  87.5  87.5   2:22.35 mem.bash
+Leader process
+   1480 root      20   0 2259644   1.6g   2588 R  76.5  87.0   2:22.75 mem.bash
+   3096 root      20   0  274140   4384   3812 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200   2328   2216 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 71.7 free, 1715.8 used, 39.5 buff/cache MiB Swap: 820.0 total, 343.5 free, 476.5 used. 18.3 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2276540   1.6g   2588 R  54.5  87.1   2:23.90 mem.bash
+Leader process
+   1480 root      20   0 2282744   1.6g   2588 R  88.2  87.4   2:24.31 mem.bash
+   3117 root      20   0  274140   4400   3828 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200   2320   2208 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 65.9 free, 1722.7 used, 38.5 buff/cache MiB Swap: 820.0 total, 328.0 free, 492.0 used. 12.0 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2299376   1.6g   2588 R  88.2  87.5   2:25.43 mem.bash
+Leader process
+   1480 root      20   0 2305316   1.6g   2588 R  77.8  87.8   2:25.84 mem.bash
+      1 root      20   0  179200   2320   2208 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 71.2 free, 1719.4 used, 36.4 buff/cache MiB Swap: 820.0 total, 303.5 free, 516.5 used. 16.3 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2321552   1.6g   2588 R  88.2  87.9   2:26.96 mem.bash
+Leader process
+   1480 root      20   0 2326832   1.6g   2588 R  93.8  87.8   2:27.33 mem.bash
+   3159 root      20   0  274140   4444   3872 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179200   2308   2196 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 70.3 free, 1720.2 used, 36.5 buff/cache MiB Swap: 820.0 total, 284.1 free, 535.9 used. 15.4 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2342408   1.6g   2588 R  82.4  87.6   2:28.41 mem.bash
+Leader process
+   1480 root      20   0 2348084   1.6g   2588 R  82.4  87.9   2:28.82 mem.bash
+   3180 root      20   0  274140   4404   3832 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200   2308   2196 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 64.9 free, 1724.1 used, 38.1 buff/cache MiB Swap: 820.0 total, 263.6 free, 556.4 used. 10.8 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2364320   1.6g   2588 R  93.8  87.8   2:29.93 mem.bash
+Leader process
+   1480 root      20   0 2370524   1.6g   2588 R  87.5  87.3   2:30.36 mem.bash
+   3201 root      20   0  274140   4336   3760 R   6.2   0.2   0:00.02 top
+      1 root      20   0  179200   2308   2196 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 74.0 free, 1709.7 used, 43.4 buff/cache MiB Swap: 820.0 total, 216.2 free, 603.8 used. 22.6 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2394284   1.6g   2588 R  71.4  87.0   2:32.02 mem.bash
+Leader process
+   1480 root      20   0 2402204   1.6g   2588 R  83.3  87.4   2:32.56 mem.bash
+      1 root      20   0  179200   2304   2192 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 68.9 free, 1715.8 used, 42.4 buff/cache MiB Swap: 820.0 total, 200.7 free, 619.2 used. 16.9 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2418704   1.6g   2588 R  87.5  87.4   2:33.68 mem.bash
+Leader process
+   1480 root      20   0 2424644   1.6g   2588 R  88.2  87.7   2:34.09 mem.bash
+   3243 root      20   0  274140   4324   3752 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200   2288   2176 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 64.4 free, 1721.7 used, 40.9 buff/cache MiB Swap: 820.0 total, 185.2 free, 634.8 used. 11.8 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2440616   1.6g   2588 R  88.2  87.8   2:35.20 mem.bash
+Leader process
+   1480 root      20   0 2446688   1.6g   2588 R  77.8  88.0   2:35.61 mem.bash
+     49 root      20   0       0      0      0 R   5.6   0.0   0:02.38 kswapd0
+      1 root      20   0  179200   2280   2168 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 76.8 free, 1711.9 used, 38.4 buff/cache MiB Swap: 820.0 total, 154.0 free, 666.0 used. 22.9 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2462924   1.6g   2588 R  88.2  88.2   2:36.73 mem.bash
+Leader process
+   1480 root      20   0 2468336   1.6g   2588 R  82.4  87.6   2:37.12 mem.bash
+   3285 root      20   0  274140   4448   3872 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200   2280   2168 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 69.9 free, 1718.6 used, 38.5 buff/cache MiB Swap: 820.0 total, 135.0 free, 685.0 used. 16.1 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2484968   1.6g   2588 R  75.0  87.7   2:38.24 mem.bash
+Leader process
+   1480 root      20   0 2491568   1.6g   2588 R  78.9  88.1   2:38.70 mem.bash
+      1 root      20   0  179200   2280   2168 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+
+MiB Mem : 1827.1 total, 63.4 free, 1723.6 used, 40.1 buff/cache MiB Swap: 820.0 total, 116.7 free, 703.2 used. 10.4 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2508464   1.6g   2588 R  93.8  88.0   2:39.83 mem.bash
+Leader process
+   1480 root      20   0 2512952   1.6g   2588 R  52.9  87.6   2:40.18 mem.bash
+     49 root      20   0       0      0      0 R  23.5   0.0   0:02.63 kswapd0
+   3327 root      20   0  274140   4408   3836 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200   2280   2168 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+
+MiB Mem : 1827.1 total, 70.0 free, 1714.0 used, 43.1 buff/cache MiB Swap: 820.0 total, 77.0 free, 743.0 used. 18.5 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2531696   1.6g   2588 R  77.8  87.1   2:41.44 mem.bash
+Leader process
+   1480 root      20   0 2537636   1.6g   2588 R  77.8  87.4   2:41.87 mem.bash
+   3348 root      20   0  274140   4384   3812 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179200   2280   2168 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 67.1 free, 1718.4 used, 41.5 buff/cache MiB Swap: 820.0 total, 59.5 free, 760.5 used. 14.9 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2553608   1.6g   2588 R  73.7  87.3   2:42.98 mem.bash
+Leader process
+   1480 root      20   0 2559944   1.6g   2588 R  88.2  87.7   2:43.41 mem.bash
+   3369 root      20   0  274140   4448   3876 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200   2280   2168 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 62.5 free, 1724.1 used, 40.4 buff/cache MiB Swap: 820.0 total, 44.0 free, 776.0 used. 9.7 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2576180   1.6g   2580 R  88.2  87.7   2:44.51 mem.bash
+Leader process
+   1480 root      20   0 2581328   1.6g   2580 R  70.6  87.6   2:44.89 mem.bash
+     49 root      20   0       0      0      0 D  17.6   0.0   0:02.86 kswapd0
+      1 root      20   0  179200   2272   2160 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 75.5 free, 1713.7 used, 37.9 buff/cache MiB Swap: 820.0 total, 12.6 free, 807.4 used. 21.4 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2597564   1.6g   2580 R  61.1  87.5   2:45.98 mem.bash
+Leader process
+   1480 root      20   0 2604032   1.6g   2580 R  99.9  87.5   2:46.42 mem.bash
+   3411 root      20   0  274140   4400   3828 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179200   2272   2160 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 68.1 free, 1722.0 used, 36.9 buff/cache MiB Swap: 820.0 total, 0.0 free, 820.0 used. 13.6 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2620268   1.6g   2580 R  88.9  87.6   2:47.53 mem.bash
+Leader process
+   1480 root      20   0 2625944   1.6g   2580 R  94.1  87.9   2:47.92 mem.bash
+   3432 root      20   0  274140   4424   3852 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179200   2272   2160 S   0.0   0.1   0:03.74 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+
+MiB Mem : 1827.1 total, 1667.9 free, 101.9 used, 57.3 buff/cache MiB Swap: 820.0 total, 745.1 free, 74.9 used. 1623.2 avail Mem
+Ingo about process mem.bash
+   1480 root      20   0 2664884   1.6g    732 R   0.5  89.9   3:01.54 mem.bash
+Leader process
+      1 root      20   0  179200   1280      0 S   0.0   0.1   0:05.33 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/0:0H-kblockd
+
+
